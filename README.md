@@ -6,7 +6,11 @@ RatsPain is a publicly available dataset specially developed for the research of
 2. Illustration of Rats' Facial Image Collection and Pain Annotation in RatsPain
 ![Image tex](https://github.com/xhzongyuan/RatsPain/blob/main/Illustration%20of%20Rats'%20Facial%20Image%20Collection%20and%20Pain%20Annotation.jpg)
 
-3. Baseline Experiments
+
+![Image tex](https://github.com/xhzongyuan/RatsPain/blob/main/Samples%20of%20Facial%20Images%20in%20RatsPain.jpg)
+
+
+4. Baseline Experiments
 
 
 5. How to Obtain RatsPain
