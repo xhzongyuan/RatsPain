@@ -10,6 +10,9 @@ RatsPain is a publicly available dataset specially developed for the research of
 ![Image tex](https://github.com/xhzongyuan/RatsPain/blob/main/Samples%20of%20Facial%20Images%20in%20RatsPain.jpg)
 
 
+![Image tex](https://github.com/xhzongyuan/RatsPain/blob/main/Sample%20Statistical%20Information%20of%20RatsPain.jpg)
+
+
 4. Baseline Experiments
 
 
