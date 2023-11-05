@@ -17,6 +17,17 @@ RatsPain is a publicly available dataset specially developed for the research of
 
 
 5. How to Obtain RatsPain
+-----------------------------------------------------------------------------------------------------------
+Subject: Application to download the RatsPain Dataset          
+2. Name: <Your Name>
+3. Affiliation: <Your Institution>
+4. Department: <Your Department>
+5. Position: <Your Position>
+6. Email: <Your Institutional Email Address>
 
-
+I have read and agree to the terms and conditions specified in the RatsPain dataset webpage. 
+This dataset will only be used for research purposes. 
+I will not make any part of this dataset available to a third party. 
+I'll not sell any part of this dataset or make any profit from its use.
+-----------------------------------------------------------------------------------------------------------
 7. Reference
