@@ -23,7 +23,7 @@ Subject: Application to download the RatsPain Dataset<br>
 2. Affiliation: <Your Institution><br>
 3. Department: <Your Department><br>
 4. Position: <Your Position><br>
-5. Email: <Your Institutional Email Address><br> (Insiti)
+5. Email: <Your Institutional Email Address><br> 
 
 I have read and agree to the terms and conditions specified in the RatsPain dataset webpage. 
 This dataset will only be used for research purposes. 
