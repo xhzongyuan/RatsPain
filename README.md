@@ -13,9 +13,9 @@ RatsPain is a publicly available dataset designed for pain assessment research i
 
 Details of the baseline experiments conducted on the RatsPain dataset.
 
-## 5. How to Obtain RatsPain
+## 5. How to Obtain RatsPain Dataset
 
-To obtain access to the RatsPain dataset, please use your INSTITUTIONAL EMAIL to submit the following information to Dr. Yuan Zong (xhzongyuan@seu.edu.cn) and Mr. Liu Liu (njmummxr@gmail.com):
+To obtain access to the RatsPain dataset, please use your INSTITUTIONAL EMAIL to submit the following information to Dr. Yuan Zong (xhzongyuan[AT]seu[DOT]edu[DOT]cn) and Mr. Liu Liu (njmummxr[AT]gmail[DOT]com):
 
 <div>
 Subject: Application to download the RatsPain Dataset<br>
