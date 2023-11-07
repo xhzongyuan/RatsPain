@@ -15,7 +15,7 @@ Details of the baseline experiments conducted on the RatsPain dataset.
 
 ## 5. How to Obtain RatsPain
 
-To obtain access to the RatsPain dataset, please submit the following information:
+To obtain access to the RatsPain dataset, please submit the following information to Dr. Yuan Zong (xhzongyuan@seu.edu.cn) and Mr. Liu Liu (njmummxr@gmail.com):
 
 <div>
 Subject: Application to download the RatsPain Dataset<br>
