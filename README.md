@@ -2,7 +2,8 @@
 
 ## 1. Introduction
 
-RatsPain is a publicly available dataset designed for pain assessment research in rats via facial expressions. This dataset comprises 1,138 facial images of six rats subjected to orthodontic treatment. The images in RatsPain were meticulously chosen from pre- and post-operation recordings and annotated by eight students with biomedical engineering or medical backgrounds using the Rat Grimace Scale (RGS)[1]. The dataset includes benchmark evaluations using both traditional machine learning (LBP + SVM) and deep learning (ResNet-18) methods.
+- RatsPain is a publicly available dataset designed for pain assessment research in rats via facial expressions. This dataset comprises 1,138 facial images of six rats subjected to orthodontic treatment. The images in RatsPain were meticulously chosen from pre- and post-operation recordings and annotated by eight students with biomedical engineering or medical backgrounds using the Rat Grimace Scale (RGS)[1].
+- The dataset includes benchmark evaluations using both traditional machine learning (LBP + SVM) and deep learning (ResNet-18) methods.
 
 ## 2. Illustration of Rats' Facial Image Collection and Pain Annotation in RatsPain
 <div align="center">
@@ -17,21 +18,22 @@ Details of the baseline experiments conducted on the RatsPain dataset.
 
 ## 5. How to Obtain RatsPain Dataset
 
-To obtain access to the RatsPain dataset, please use your INSTITUTIONAL EMAIL to submit the following information to Dr. Yuan Zong (xhzongyuan[AT]seu[DOT]edu[DOT]cn) and Mr. Liu Liu (njmummxr[AT]gmail[DOT]com):
+To obtain access to the RatsPain dataset, please use your INSTITUTIONAL EMAIL to submit the following information to Dr. Yuan Zong (xhzongyuan@seu.edu.cn) and Mr. Liu Liu (njmummxr@gmail.com):
 
-<div>
+<blockquote>
 Subject: Application to download the RatsPain Dataset<br>
-1. Name: <Your Name><br>
-2. Affiliation: <Your Institution><br>
-3. Department: <Your Department><br>
-4. Position: <Your Position><br>
-5. Email: <Your Institutional Email Address><br> 
-
+1. Name: &lt;Your Name&gt;<br>
+2. Affiliation: &lt;Your Institution&gt;<br>
+3. Department: &lt;Your Department&gt;<br>
+4. Position: &lt;Your Position&gt;<br>
+5. Email: &lt;Your Institutional Email Address&gt;<br><br>
+  
 I have read and agree to the terms and conditions specified in the RatsPain dataset webpage. 
 This dataset will only be used for research purposes. 
 I will not make any part of this dataset available to a third party. 
 I'll not sell any part of this dataset or make any profit from its use.
-</div>
+</blockquote>
+
 
 ## 7. Reference
 
