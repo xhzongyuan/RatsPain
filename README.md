@@ -5,9 +5,11 @@
 RatsPain is a publicly available dataset designed for pain assessment research in rats via facial expressions. This dataset comprises 1,138 facial images of six rats subjected to orthodontic treatment. The images in RatsPain were meticulously chosen from pre- and post-operation recordings and annotated by eight students with biomedical engineering or medical backgrounds using the Rat Grimace Scale (RGS)[1]. The dataset includes benchmark evaluations using both traditional machine learning (LBP + SVM) and deep learning (ResNet-18) methods.
 
 ## 2. Illustration of Rats' Facial Image Collection and Pain Annotation in RatsPain
-<img src="https://github.com/xhzongyuan/RatsPain/blob/main/Illustration%20of%20Rats'%20Facial%20Image%20Collection%20and%20Pain%20Annotation.jpg" width="800" height=auto>
-<img src="https://github.com/xhzongyuan/RatsPain/blob/main/Samples%20of%20Facial%20Images%20in%20RatsPain.jpg" width="800" height=auto>
-<img src="https://github.com/xhzongyuan/RatsPain/blob/main/Sample%20Statistical%20Information%20of%20RatsPain.jpg" width="800" height=auto>
+<div align="center">
+  <img src="https://github.com/xhzongyuan/RatsPain/blob/main/Illustration%20of%20Rats'%20Facial%20Image%20Collection%20and%20Pain%20Annotation.jpg" width="800" height=auto>
+  <img src="https://github.com/xhzongyuan/RatsPain/blob/main/Samples%20of%20Facial%20Images%20in%20RatsPain.jpg" width="800" height=auto>
+  <img src="https://github.com/xhzongyuan/RatsPain/blob/main/Sample%20Statistical%20Information%20of%20RatsPain.jpg" width="800" height=auto>
+</div>
 
 ## 4. Baseline Experiments
 
