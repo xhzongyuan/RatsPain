@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-- RatsPain is a publicly available dataset designed for pain assessment research in rats via facial expressions. This dataset comprises 1,138 facial images of six rats subjected to orthodontic treatment. The images in RatsPain were meticulously chosen from pre- and post-operation recordings and annotated by eight students with biomedical engineering or medical backgrounds using the Rat Grimace Scale (RGS)[1].
+- RatsPain is a publicly available dataset designed for pain assessment research in rats via facial expressions. This dataset comprises 1,138 facial images of six rats subjected to orthodontic treatment. The images in RatsPain were meticulously chosen from pre- and post-operation recordings and annotated by eight students with biomedical engineering or medical backgrounds using the Rat Grimace Scale (RGS)<sup>[1](#ref1)</sup>.
 - The dataset includes benchmark evaluations using both traditional machine learning (LBP + SVM) and deep learning (ResNet-18) methods.
 
 ## 2. Illustration of Rats' Facial Image Collection and Pain Annotation in RatsPain
@@ -39,4 +39,5 @@ I'll not sell any part of this dataset or make any profit from its use.
 
 Please include the references here.
 
-[1] Reference to the Rat Grimace Scale (RGS) study or documentation.
+<a id="ref1"></a>
+1. Author Name. (Year). Title of the paper/book. Journal/Publisher. Reference to the Rat Grimace Scale (RGS) study or documentation.
