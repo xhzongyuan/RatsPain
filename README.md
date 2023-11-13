@@ -40,4 +40,4 @@ I'll not sell any part of this dataset or make any profit from its use.
 Please include the references here.
 
 <a id="ref1"></a>
-1. Author Name. (Year). Title of the paper/book. Journal/Publisher. Reference to the Rat Grimace Scale (RGS) study or documentation.
+1. [Sotocina, Susana G., et al. "The Rat Grimace Scale: a partially automated method for quantifying pain in the laboratory rat via facial expressions." Molecular pain 7 (2011): 1744-8069.](https://journals.sagepub.com/doi/epub/10.1186/1744-8069-7-55)
